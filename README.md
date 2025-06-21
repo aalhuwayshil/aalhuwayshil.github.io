@@ -1,20 +1,33 @@
-# Ahmed H. Alhuwayshil — Personal Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ahmed H. Alhuwayshil</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Ahmed H. Alhuwayshil</h1>
+      <p>PhD researcher in Linguistics</p>
+    </header>
 
-This repository contains the source code for my personal academic website, hosted at:
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cv.pdf">CV</a>
+      <a href="talks.html">Talks & Publications</a>
+      <a href="mailto:a.alhuwayshil@ed.ac.uk">Contact</a>
+      <a href="my poems">my poems</a>
+    </nav>
 
-🔗 **[https://aalhuwayshil.github.io](https://aalhuwayshil.github.io)**
+    <main>
+      <p>Welcome! I’m a linguist interested in semantics, pragmatics, and experimental methods. This site contains my CV, publications, and ongoing projects.</p>
+    </main>
 
-The website showcases my research in linguistics and cognitive science, with a focus on semantics, pragmatics, and experimental methods such as mouse-tracking.
-
-## 🧠 About
-
-I'm a PhD researcher in Linguistics at the University of Edinburgh. My work explores how context shapes meaning, with particular focus on scalar implicatures, diachronic change, and the cognitive mechanisms underlying linguistic inference.
-
-## 🛠 Tech Stack
-
-- **HTML5 / CSS3 / JavaScript**
-- Optional: [Jekyll](https://jekyllrb.com/) or plain static site
-- Hosted via **GitHub Pages**
-
-## 📁 Project Structure
-
+    <footer>
+      <p>© 2025 Ahmed H. Alhuwayshil</p>
+    </footer>
+  </div>
+</body>
+</html>
