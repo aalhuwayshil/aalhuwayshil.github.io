@@ -50,7 +50,8 @@ footer {
 .profile-pic {
   display: block;
   margin: 0 auto;
-  width: 200px;
-  border-radius: 50%;
+  width: 200px;          /* adjust as needed */
+  height: auto;          /* keeps natural height */
+  object-fit: contain;   /* keeps image proportions */
 }
 
