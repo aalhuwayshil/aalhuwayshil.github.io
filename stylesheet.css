@@ -11,7 +11,10 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 2em;
+  background-color: #111111; /* very dark grey */
+  border-radius: 8px;
 }
+
 
 header {
   text-align: center;
