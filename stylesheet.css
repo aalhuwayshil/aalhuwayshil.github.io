@@ -44,3 +44,9 @@ footer {
   width: 200px;
   border-radius: 50%; /* optional: makes it circular */
 }
+
+main {
+  color: red;
+  font-weight: bold;
+}
+
